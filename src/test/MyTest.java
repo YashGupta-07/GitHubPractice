@@ -2,4 +2,5 @@ package test;
 
 public class MyTest {
     String name = "YashTest";
+    int age = 25;
 }
